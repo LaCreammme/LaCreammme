@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-rayane.svg" width="100%" alt="Rayane (LaCreammme), computer science student at UIR" />
+<img src="./banner-clean.svg" width="100%" alt="LaCreammme, computer science student at UIR" />
 
 <br/><br/>
 
@@ -10,11 +10,9 @@
 
 <img src="./stack-title.svg" width="100%" alt="My stack" />
 
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?theme=dark&i=c,py,html,mysql,linux,kali,bash,git,github,latex" alt="C, Python, HTML, MySQL, Linux, Kali, Bash, Git, GitHub, LaTeX" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0B1440?style=for-the-badge&logo=cisco&logoColor=5CE1E6" alt="Cisco Packet Tracer" />
 <img src="https://img.shields.io/badge/Wireshark-0B1440?style=for-the-badge&logo=wireshark&logoColor=5CE1E6" alt="Wireshark" />
