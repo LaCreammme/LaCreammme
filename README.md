@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%" alt="Rayane KRIEM, computer science student at UIR" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=%24+whoami%3B2nd+Year+Preparatory+Cycle%3BSystems%2C+Networks+and+Databases%3BI+learn+by+building" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=%24+whoami%3B2nd+Year+Preparatory+Cycle%3BSystems%2C+Networks+and+Databases%3BI+learn+by+building" alt="Animated introduction" />
 
 </div>
 
@@ -29,8 +29,8 @@ struct developer rayane = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0B2A6F?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/Wireshark-0B2A6F?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-101A4D?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/Wireshark-101A4D?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 
 </div>
 
@@ -51,9 +51,9 @@ struct developer rayane = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LaCreammme&hide_border=true&background=0A1633&ring=3B82F6&fire=60A5FA&currStreakNum=DBEAFE&sideNums=DBEAFE&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=93C5FD" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=LaCreammme&hide_border=true&background=050A24&ring=FF3D9A&fire=5CE1E6&currStreakNum=E8E6FF&sideNums=E8E6FF&currStreakLabel=5CE1E6&sideLabels=FF7AB6&dates=FF7AB6" alt="Contribution streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaCreammme&theme=github_dark" width="90%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaCreammme&theme=radical" width="90%" alt="Profile details" />
 
 </div>
 
@@ -70,8 +70,8 @@ struct developer rayane = {
 
 <div align="center">
 
-<a href="https://github.com/LaCreammme"><img src="https://img.shields.io/badge/Follow_me-0B2A6F?style=for-the-badge&logo=github&logoColor=white" alt="Follow LaCreammme on GitHub" /></a>
+<a href="https://github.com/LaCreammme"><img src="https://img.shields.io/badge/Follow_me-101A4D?style=for-the-badge&logo=github&logoColor=white" alt="Follow LaCreammme on GitHub" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2a6f,100:020617&height=100&section=footer" width="100%" alt="" />
+<img src="./footer.svg" width="100%" alt="" />
 
 </div>
