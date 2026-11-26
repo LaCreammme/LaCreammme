@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./about-rayane.svg" width="100%" alt="About me: Rayane, UIR Rabat, 2nd Year Preparatory Cycle in Computer Science, exploring systems, networks and databases, building ocsh, a mini-shell in C" />
+<img src="./whoami.svg" width="100%" alt="About me: Rayane, UIR Rabat, 2nd Year Preparatory Cycle in Computer Science, exploring systems, networks and databases" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 <br/>
 
-<img src="./semester.svg" width="100%" alt="This semester: Operating Systems (Linux, mini-shell in C); Computer Networks (routing, Packet Tracer, Wireshark); Databases (SQL, relational algebra); Numerical Analysis (linear systems, Gauss); Linear Algebra (diagonalization); Analog Electronics (bipolar transistors)" />
+<img src="./network.svg" width="100%" alt="Animated network: packets travel between a laptop, a switch, a router and the internet" />
 
 <br/>
 
-<img src="./shell-flow.svg" width="100%" alt="How a mini-shell runs a command: read, parse, pipe, fork, exec, wait" />
+<img src="./tips.svg" width="100%" alt="Terminal tips: useful git, grep, chmod, history and ping commands" />
 
 <br/>
 
@@ -38,6 +38,7 @@
 <br/>
 
 <a href="https://github.com/LaCreammme"><img src="https://img.shields.io/badge/Follow_me-0B1440?style=for-the-badge&logo=github&logoColor=5CE1E6" alt="Follow LaCreammme on GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=LaCreammme&style=for-the-badge&color=0B1440&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/>
 
