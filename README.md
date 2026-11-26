@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Rayane KRIEM (LaCreammme), computer science student at UIR" />
+<img src="./banner-mascot.svg" width="100%" alt="Rayane KRIEM (LaCreammme), computer science student at UIR" />
 
 <br/><br/>
 
