@@ -57,13 +57,10 @@ struct developer rayane = {
 
 </div>
 
-## 🐍 My contributions
+## 🎮 Break time
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaCreammme/LaCreammme/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/LaCreammme/LaCreammme/output/snake.svg" width="100%" alt="Snake eating the contribution graph" />
-  </picture>
+  <img src="./tetris.svg" width="90%" alt="Animated Tetris game" />
 </div>
 
 ## 📫 Get in touch
